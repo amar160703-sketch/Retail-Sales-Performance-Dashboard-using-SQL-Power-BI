@@ -31,20 +31,4 @@ This project demonstrates an end-to-end data analytics workflow for a coffee sho
 
 ---
 
-## 📂 Repository Structure  
-```text
-coffee-shop-sales-sql-powerbi/
-│
-├── SQL/
-│   └── Data_Cleaning_and_Analysis.sql
-│
-├── Dataset/
-│   └── cleaned_coffee_shop_sales.csv
-│
-├── PowerBI/
-│   └── Coffee_Shop_Sales_Project.pbix
-│
-├── Screenshots/
-│   └── dashboard_preview.png
-│
-└── README.md
+
